@@ -2,11 +2,11 @@
 <h3 align="center">Frontend Developer 💭</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/EDwYADr6Idg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgSyhlMA8=&rs=AOn4CLCh7GlcCkuosxg-c94Dc_BuYr4fqw">
 
-- 🔭 I’m currently working on building my portfolio and experience
+- 👨‍💻 I’m currently working on building my portfolio 
 
 - 🌱 And learning as much as I can in the process!👏
 
-- 👨‍💻 My projects are available at : [https://github.com/Richardhartleydev](https://github.com/Richardhartleydev)
+- 🔭 My projects are available at : [https://github.com/Richardhartleydev](https://github.com/Richardhartleydev)
 
 - 📫 Feel free to email me via : **richardhartleydev@gmail.com**
 <h3 align="left">Or connect with me on :</h3>
