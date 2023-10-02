@@ -1,30 +1,59 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
 <h1 align="center">Hi 👋 I'm Richard Hartley</h1>
-<h3 align="center">Frontend Developer 💭</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/EDwYADr6Idg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgSyhlMA8=&rs=AOn4CLCh7GlcCkuosxg-c94Dc_BuYr4fqw">
+<h2 align="center">Frontend Developer💭</h2>
+<img align="right" width="400" src="https://i.ytimg.com/vi/EDwYADr6Idg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgSyhlMA8=&rs=AOn4CLCh7GlcCkuosxg-c94Dc_BuYr4fqw" alt="Coding" margin-bottom="10px">
 
-- 👨‍💻 I’m currently working on building my portfolio 
+<br>
 
-- 🌱 And learning as much as I can in the process!👏
+* 🌍  I'm based in United Kingdom
 
-- 🔭 My projects are available at : [https://github.com/Richardhartleydev](https://github.com/Richardhartleydev)
+* 🖥️  See my portfolio at [richardhartley.dev](http://richardhartley.dev)
 
-- 📫 Feel free to email me via : **richardhartleydev@gmail.com**
+* ✉️  Feel free to contact me on [richardhartleydev@gmail.com](mailto:richardhartleydev@gmail.com)
+
 <h3 align="left">Or connect with me on :</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/richardh_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/richardh_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/richard-hartley-6346b0225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richard-hartley-6346b0225/" height="30" width="40" /></a>
-</p>
 <hr>
-<h3 align="left">My Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardhartleydev&show_icons=true&locale=en&layout=compact" alt="richardhartleydev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardhartleydev&show_icons=true&locale=en" alt="richardhartleydev" /></p>
+<div  align="left">
+<h3>My Languages and Tools:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
+</div>
+
+<div align="left">
+  <h3>How I style:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+<div align="left">
+  <h3>Backend Stack:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+<hr>
+
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardhartleydev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardhartleydev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+</div>
+
+
