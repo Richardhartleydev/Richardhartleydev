@@ -1,5 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Richardhartleydev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 <h1 align="center">Hi 👋 I'm Richard Hartley</h1>
 <h2 align="center">Frontend Developer💭</h2>
 <img align="right" width="400" src="https://i.ytimg.com/vi/EDwYADr6Idg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgSyhlMA8=&rs=AOn4CLCh7GlcCkuosxg-c94Dc_BuYr4fqw" alt="Coding" margin-bottom="10px">
