@@ -47,8 +47,8 @@
 
 <div align="center">
 <h3>My Stats:</h3>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardhartleydev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Github Stats" height="150px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardhartleydev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" height="150px"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardhartleydev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Github Stats" height="150px"/>
 
 [![An image of @richardhartleydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richardhartleydev)](https://holopin.io/@richardhartleydev)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Richardhartleydev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy) -->
