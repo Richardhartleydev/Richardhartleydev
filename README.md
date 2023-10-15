@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <h1 align="center">Hi 👋🏻 I'm Richard</h1>
-<h2 align="center">A Passionate Frontend Developer from the UK <img src="https://cdn.britannica.com/25/4825-004-F1975B92/Flag-United-Kingdom.jpg" width="35px"></h2>
+<h2 align="center"> A Passionate Frontend Developer from the UK <img src="https://cdn.britannica.com/25/4825-004-F1975B92/Flag-United-Kingdom.jpg" width="35px"><!-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="35px"> --></h2>
 <img align="right" width="400" src="https://i.ytimg.com/vi/EDwYADr6Idg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEwgSyhlMA8=&rs=AOn4CLCh7GlcCkuosxg-c94Dc_BuYr4fqw" alt="Coding" margin-bottom="10px">
 
 <br>
