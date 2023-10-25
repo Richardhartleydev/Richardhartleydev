@@ -52,7 +52,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardhartleydev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Github Stats" height="150px"/>
 
 [![An image of @richardhartleydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richardhartleydev)](https://holopin.io/@richardhartleydev)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Richardhartleydev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Richardhartleydev&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 </div>
 
 
